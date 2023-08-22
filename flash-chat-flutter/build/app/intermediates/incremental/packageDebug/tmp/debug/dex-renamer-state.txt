@@ -1,0 +1,4 @@
+#Tue Aug 08 10:16:27 EEST 2023
+base.0=C\:\\Users\\alexandra.tanase\\StudioProjects\\flash-chat-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341451046631",
+    "project_id": "flash-chat-4035d",
+    "storage_bucket": "flash-chat-4035d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341451046631:android:4a60010dfe33464a486c42",
+        "android_client_info": {
+          "package_name": "com.DianaTanase.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341451046631-1gsbm8100gorv9apm55r2tb1m35uiokv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohF8sOes8KTP8L-U7vHFLrBwbs4GHUc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341451046631-1gsbm8100gorv9apm55r2tb1m35uiokv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

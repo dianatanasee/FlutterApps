@@ -1,0 +1,417 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e3c8cddf52851d78009bbd08b4773c59\transformed\jetified-firebase-core-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e3c8cddf52851d78009bbd08b4773c59\transformed\jetified-firebase-core-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\de674f4558fe9e78762a29f8b50d5615\transformed\jetified-play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\de674f4558fe9e78762a29f8b50d5615\transformed\jetified-play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9b30d7f482a097ef161d50e1001877db\transformed\jetified-firebase-measurement-connector-16.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9b30d7f482a097ef161d50e1001877db\transformed\jetified-firebase-measurement-connector-16.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aa02f95441071c3d7af3450c5abfc6f0\transformed\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aa02f95441071c3d7af3450c5abfc6f0\transformed\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2b72cda158c282ba6a34c6fe5227fb74\transformed\jetified-firebase-iid-interop-16.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2b72cda158c282ba6a34c6fe5227fb74\transformed\jetified-firebase-iid-interop-16.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\46ac25f29407193070187f51a18cbf88\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\46ac25f29407193070187f51a18cbf88\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aacd29ba122dddd5ec381dd4af2be3a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aacd29ba122dddd5ec381dd4af2be3a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\afb5ae3da972e3861abb0bb7cff446a5\transformed\jetified-play-services-measurement-base-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\afb5ae3da972e3861abb0bb7cff446a5\transformed\jetified-play-services-measurement-base-16.0.0\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0f1e9445c2eacc8b1fbb69b11926391a\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e3c8cddf52851d78009bbd08b4773c59\transformed\jetified-firebase-core-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\de674f4558fe9e78762a29f8b50d5615\transformed\jetified-play-services-stats-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9b30d7f482a097ef161d50e1001877db\transformed\jetified-firebase-measurement-connector-16.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aa02f95441071c3d7af3450c5abfc6f0\transformed\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2b72cda158c282ba6a34c6fe5227fb74\transformed\jetified-firebase-iid-interop-16.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\46ac25f29407193070187f51a18cbf88\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\5cb8b40997b9d896596da049b001cdc6\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\7be24107851c021c290abf386e77f3a0\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2afdf5b71486642682f3c75ad87df63d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1592c86171df12ee483dc7972f5f79d2\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\775ecdca1aaeaec9c5d7bdf9f8635126\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\edec782232dbff2dca06aab70cbe56d5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\4d4dd07737aaa8f63e01f878edef4dff\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\d197b2207578e9e231d91e4ca60aebef\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1802ce5355b06b31c3e4ad2772d8a279\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1a523ff1985f551f413df0a7e51abe0b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\a5f3a4b1bed7a5b18d3421d7b0f9d8ff\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1bd3f8cf0f323ede4a4d0385e1da3b8b\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e41f986cc70f29befe3d842522a6ed66\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\44d65c298837dfd9ff2dd0a43b6ef971\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\02294e140429d38717d95d3f9e87e0f6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\6affc5f4fa58de497793613a59aba224\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\a008841743dad99673a4e4bb1b4ca0bb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c776e33b63ae2508f230ffd49995af80\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ef321767b4ec3b83e84238203f16189f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\7ab250b5c2128a1589f44741769a4636\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aacd29ba122dddd5ec381dd4af2be3a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\66b85f654a5466d4c7f47c9dd4dddf81\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9bb2aaaaee49184ea57af16cb47f35bf\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c1ff34ca726d34aa44efb080e27944fe\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0d8989342e664ea51d414e54eec86359\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c966a2a463b650197342ec3117cc52b8\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ced85e0e94464fb935cae5505e8fa4e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\182a97ff9181f86a95606c3f37d3b39d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\afb5ae3da972e3861abb0bb7cff446a5\transformed\jetified-play-services-measurement-base-16.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:2:5-81
+	android:name
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:2:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:4:22-76
+uses-sdk
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0f1e9445c2eacc8b1fbb69b11926391a\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0f1e9445c2eacc8b1fbb69b11926391a\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e3c8cddf52851d78009bbd08b4773c59\transformed\jetified-firebase-core-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e3c8cddf52851d78009bbd08b4773c59\transformed\jetified-firebase-core-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\de674f4558fe9e78762a29f8b50d5615\transformed\jetified-play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\de674f4558fe9e78762a29f8b50d5615\transformed\jetified-play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9b30d7f482a097ef161d50e1001877db\transformed\jetified-firebase-measurement-connector-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9b30d7f482a097ef161d50e1001877db\transformed\jetified-firebase-measurement-connector-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aa02f95441071c3d7af3450c5abfc6f0\transformed\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aa02f95441071c3d7af3450c5abfc6f0\transformed\jetified-play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2b72cda158c282ba6a34c6fe5227fb74\transformed\jetified-firebase-iid-interop-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2b72cda158c282ba6a34c6fe5227fb74\transformed\jetified-firebase-iid-interop-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\46ac25f29407193070187f51a18cbf88\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\46ac25f29407193070187f51a18cbf88\transformed\jetified-play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\5cb8b40997b9d896596da049b001cdc6\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\5cb8b40997b9d896596da049b001cdc6\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\7be24107851c021c290abf386e77f3a0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\7be24107851c021c290abf386e77f3a0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2afdf5b71486642682f3c75ad87df63d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\2afdf5b71486642682f3c75ad87df63d\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1592c86171df12ee483dc7972f5f79d2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1592c86171df12ee483dc7972f5f79d2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\775ecdca1aaeaec9c5d7bdf9f8635126\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\775ecdca1aaeaec9c5d7bdf9f8635126\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\edec782232dbff2dca06aab70cbe56d5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\edec782232dbff2dca06aab70cbe56d5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\4d4dd07737aaa8f63e01f878edef4dff\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\4d4dd07737aaa8f63e01f878edef4dff\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\d197b2207578e9e231d91e4ca60aebef\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\d197b2207578e9e231d91e4ca60aebef\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1802ce5355b06b31c3e4ad2772d8a279\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1802ce5355b06b31c3e4ad2772d8a279\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1a523ff1985f551f413df0a7e51abe0b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1a523ff1985f551f413df0a7e51abe0b\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\a5f3a4b1bed7a5b18d3421d7b0f9d8ff\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\a5f3a4b1bed7a5b18d3421d7b0f9d8ff\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1bd3f8cf0f323ede4a4d0385e1da3b8b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1bd3f8cf0f323ede4a4d0385e1da3b8b\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e41f986cc70f29befe3d842522a6ed66\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e41f986cc70f29befe3d842522a6ed66\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\44d65c298837dfd9ff2dd0a43b6ef971\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\44d65c298837dfd9ff2dd0a43b6ef971\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\02294e140429d38717d95d3f9e87e0f6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\02294e140429d38717d95d3f9e87e0f6\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\6affc5f4fa58de497793613a59aba224\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\6affc5f4fa58de497793613a59aba224\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\a008841743dad99673a4e4bb1b4ca0bb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\a008841743dad99673a4e4bb1b4ca0bb\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c776e33b63ae2508f230ffd49995af80\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c776e33b63ae2508f230ffd49995af80\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ef321767b4ec3b83e84238203f16189f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ef321767b4ec3b83e84238203f16189f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\7ab250b5c2128a1589f44741769a4636\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\7ab250b5c2128a1589f44741769a4636\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aacd29ba122dddd5ec381dd4af2be3a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\aacd29ba122dddd5ec381dd4af2be3a0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\66b85f654a5466d4c7f47c9dd4dddf81\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\66b85f654a5466d4c7f47c9dd4dddf81\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9bb2aaaaee49184ea57af16cb47f35bf\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\9bb2aaaaee49184ea57af16cb47f35bf\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c1ff34ca726d34aa44efb080e27944fe\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c1ff34ca726d34aa44efb080e27944fe\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0d8989342e664ea51d414e54eec86359\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0d8989342e664ea51d414e54eec86359\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c966a2a463b650197342ec3117cc52b8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c966a2a463b650197342ec3117cc52b8\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ced85e0e94464fb935cae5505e8fa4e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ced85e0e94464fb935cae5505e8fa4e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\182a97ff9181f86a95606c3f37d3b39d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\182a97ff9181f86a95606c3f37d3b39d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\afb5ae3da972e3861abb0bb7cff446a5\transformed\jetified-play-services-measurement-base-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\afb5ae3da972e3861abb0bb7cff446a5\transformed\jetified-play-services-measurement-base-16.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c94973892d6b1d88134f03d1ee8e72ba\transformed\jetified-firebase-measurement-connector-impl-16.0.1\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1cf4c824f3fb38ea64cd6d378769777c\transformed\jetified-firebase-analytics-impl-16.1.1\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\c22644b8676af08a3740734f68f935d5\transformed\jetified-firebase-analytics-16.0.1\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:29:9-63
+permission#com.DianaTanase.flash_chat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:22-76
+uses-permission#com.DianaTanase.flash_chat.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.DianaTanase.flash_chat
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:27-58
+category#com.DianaTanase.flash_chat
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\706d7901d097de08388c88826f64c0a3\transformed\jetified-firebase-iid-16.0.0\AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\ce9ea8ca36fb6982e7ee6dadfecbeb70\transformed\jetified-firebase-common-16.0.0\AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\AndroidManifest.xml:24:13-58

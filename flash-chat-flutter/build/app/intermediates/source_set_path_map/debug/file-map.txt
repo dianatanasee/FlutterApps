@@ -1,0 +1,16 @@
+com.example.i_am_poor.app-jetified-window-java-1.0.0-beta04-0 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\0f1e9445c2eacc8b1fbb69b11926391a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.i_am_poor.app-jetified-play-services-basement-15.0.1-1 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\175380da0e6ffc4ea1a00da7727681a1\transformed\jetified-play-services-basement-15.0.1\res
+com.example.i_am_poor.app-jetified-annotation-experimental-1.1.0-2 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\182a97ff9181f86a95606c3f37d3b39d\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.i_am_poor.app-media-1.0.0-3 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\1bd3f8cf0f323ede4a4d0385e1da3b8b\transformed\media-1.0.0\res
+com.example.i_am_poor.app-jetified-play-services-base-15.0.1-4 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\86ca37e0fda38009a873dc988ad3f5ea\transformed\jetified-play-services-base-15.0.1\res
+com.example.i_am_poor.app-core-1.6.0-5 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\bef878490c1a963329c39d5d232bc16f\transformed\core-1.6.0\res
+com.example.i_am_poor.app-coordinatorlayout-1.0.0-6 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\d197b2207578e9e231d91e4ca60aebef\transformed\coordinatorlayout-1.0.0\res
+com.example.i_am_poor.app-jetified-window-1.0.0-beta04-7 C:\Users\alexandra.tanase\.gradle\caches\transforms-3\e0a9277d513166abb180fec47e1d3a30\transformed\jetified-window-1.0.0-beta04\res
+com.example.i_am_poor.app-debug-8 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\debug\res
+com.example.i_am_poor.app-main-9 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\android\app\src\main\res
+com.example.i_am_poor.app-pngs-10 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\build\app\generated\res\pngs\debug
+com.example.i_am_poor.app-resValues-11 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\build\app\generated\res\resValues\debug
+com.example.i_am_poor.app-rs-12 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\build\app\generated\res\rs\debug
+com.example.i_am_poor.app-mergeDebugResources-13 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.i_am_poor.app-mergeDebugResources-14 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.i_am_poor.app-merged_res-15 C:\Users\alexandra.tanase\StudioProjects\flash-chat-flutter\build\app\intermediates\merged_res\debug
